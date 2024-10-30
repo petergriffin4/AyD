@@ -1,0 +1,14 @@
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\bin\Debug\Entradaejemplo.exe.config
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\bin\Debug\Entradaejemplo.exe
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\bin\Debug\Entradaejemplo.pdb
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\bin\Debug\MetroFramework.Design.dll
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\bin\Debug\MetroFramework.dll
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\obj\Debug\Entradaejemplo.csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\obj\Debug\Entradaejemplo.Producto.resources
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\obj\Debug\Entradaejemplo.Properties.Resources.resources
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\obj\Debug\Entradaejemplo.csproj.GenerateResource.cache
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\obj\Debug\Entradaejemplo.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\obj\Debug\Entradae.715C5791.Up2Date
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\obj\Debug\Entradaejemplo.exe
+C:\Users\labc205\Desktop\23 septiembre\examen\ADyS\Entradaejemplo\Entradaejemplo\obj\Debug\Entradaejemplo.pdb
